@@ -2,23 +2,24 @@
 # Hoja de Vida
 
 ## Karen Jinneth Vizcaino Castro
-**Profesión:** _Tu profesión_
+**Profesión:** _Analista y desarrolladora de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [karenvizcaino0316@gamil.com](mailto:correo@ejemplo.com)
+- **Teléfono:** 
+- **Email:** [karenvizcaino0316@gmail.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025- Actualidad)_
+- Aprendiz en analisis y desarrollo de software.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **FINCA TURISTICA EL PORVENIR** _(2024 - 2025)_
+- Mesera.
+- Cajera.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **I.E.R.D GIRÓN DE BLANCOS** _(2024)_
+- Bachiller Academico
 
 ## 💡 Habilidades
 - **Habilidad 1**
