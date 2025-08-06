@@ -1,7 +1,7 @@
-# CV_Example
+# CV_Karenvizcaino
 # Hoja de Vida
 
-## Nombre Completo
+## Karen Jinneth Vizcaino Castro
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
