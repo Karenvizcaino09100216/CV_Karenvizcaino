@@ -24,9 +24,9 @@
 - Diplomado En Aplicacion De Las Buenas Practicas Agricolas.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Escucha Activa**
+- **Empatia**
+- **Pensamiento Visual y Estructurado**
 
 ---
 
