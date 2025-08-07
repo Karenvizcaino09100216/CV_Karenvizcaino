@@ -7,7 +7,7 @@
 ## 📞 Contacto
 - **Teléfono:** 
 - **Email:** [karenvizcaino0316@gmail.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [linkedin.com/in/tuusuario](www.linkedin.com/in/karen-vizcaino-84a824370)
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025- Actualidad)_
