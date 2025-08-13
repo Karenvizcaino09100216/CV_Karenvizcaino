@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:** 
-- **Email:** [karenvizcaino0316@gmail.com](mailto:correo@ejemplo.com)
+- **Email:** [karenvizcaino0316@gmail.com](karenvizcaino0316@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/karen-vizcaino-84a824370](www.linkedin.com/in/karen-vizcaino-84a824370)
 
 ## 🏢 Experiencia Laboral
